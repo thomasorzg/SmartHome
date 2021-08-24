@@ -24,6 +24,6 @@ Enlace: https://smarthome-uts.herokuapp.com/
 
 Iniciar sesión en cuenta DEMO:
 - Nombre de usuario: demo
-- Contraseña: utsdemo
+- Contraseña: utsdemo!
 
 La base de datos para la DEMO se encuentra en RemoteMySQL.
