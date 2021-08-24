@@ -1,6 +1,3 @@
-/****
-**/
-
 CREATE TABLE `dispositivos` (
   `id` int(5) NOT NULL,
   `nd` varchar(20) NOT NULL,
@@ -30,6 +27,3 @@ ALTER TABLE `dispositivos`
 ALTER TABLE `usuarios`
   MODIFY `id` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=21;
 COMMIT;
-
-/*INSERT INTO `usuarios` (`id`, `nombre`, `nombredeusuario`, `contraseña`, `estado`) VALUES
-(1, 'Thomas Orozco', 'ThomasORZG', '6b8dfb572a284bd3710723575688b7aec73f7556', 'activo');*/
