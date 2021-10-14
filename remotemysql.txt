@@ -1,0 +1,7 @@
+/* Datos de conexión a RemoteMySQL */
+
+Username: ZQi7Yoe8Gv
+Database name: ZQi7Yoe8Gv
+Password: zottbwGx8G
+Server: remotemysql.com
+Port: 3306
